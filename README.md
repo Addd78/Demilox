@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Demilox
+- 🐍 I’m Senior in Python
+- 🌱 I’m currently learning C 
+- 📫 How to reach me : addd78130 on discord
+- 😄 Pronouns: he/him
